@@ -1,3 +1,0 @@
-/home/prodefi/github/DesignPattern/单例模式/build/CMakeFiles/singleton_example.dir
-/home/prodefi/github/DesignPattern/单例模式/build/CMakeFiles/edit_cache.dir
-/home/prodefi/github/DesignPattern/单例模式/build/CMakeFiles/rebuild_cache.dir

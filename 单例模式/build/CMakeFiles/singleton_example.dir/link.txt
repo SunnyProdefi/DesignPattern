@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/singleton_example.dir/main.cpp.o CMakeFiles/singleton_example.dir/singleton.cpp.o -o /home/prodefi/github/DesignPattern/单例模式/bin/singleton_example
